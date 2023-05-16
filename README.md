@@ -1,1 +1,3 @@
-Aqui se encontra um script que foi feito utilizando RStudio. Esse script calcula gastos mensais e gera a visualização desses dados.
+Aqui se encontram alguns exemplos de funcionalidades da linguagem R que foram feitos através do RStudio.
+
+Além disso, também se encontra um aplicativo que calcula gastos mensais e gera a visualização dos mesmos (Gastos_Mensais.R).
