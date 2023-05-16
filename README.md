@@ -1,7 +1,8 @@
 Aqui se encontram alguns exemplos de funcionalidades da linguagem R que foram feitos através do RStudio.
 
 Além disso, também se encontra um aplicativo que calcula gastos mensais e gera a visualização dos mesmos (Gastos_Mensais.R).
-
+<br/>
+<br/>
 
 English:<br/>
 Here are some examples of features of the R language that were made through RStudio.
